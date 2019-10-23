@@ -1,2 +1,2 @@
-# ucsdAlumni
+# UcsdAlumni
 project to generate 
